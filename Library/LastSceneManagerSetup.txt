@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sun_Temple/Scenes/Perso.unity
+  isLoaded: 1
+  isActive: 1
